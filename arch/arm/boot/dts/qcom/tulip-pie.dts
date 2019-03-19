@@ -8001,7 +8001,7 @@
 			interrupts = <0x0 0x12c 0x0>;
 			interrupt-names = "kgsl_3d0_irq";
 			qcom,id = <0x0>;
-			qcom,chipid = <0x5000900>;
+			qcom,chipid = <0x05010200>;
 			qcom,initial-pwrlevel = <0x6>;
 			qcom,idle-timeout = <0x50>;
 			qcom,highest-bank-bit = <0xe>;
